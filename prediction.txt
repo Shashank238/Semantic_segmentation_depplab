@@ -1,0 +1,1 @@
+python predict.py --input dataset/test/ac56c836-bdabca21.jpg  --dataset cityscapes --model deeplabv3plus_mobilenet --ckpt weights/best_deeplabv3plus_mobilenet_cityscapes_os16.pth --save_val_results_to output
